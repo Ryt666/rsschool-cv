@@ -6,7 +6,7 @@ I like to look for creativity and original in everything. I designed websites my
 And created them in WordPress.
 Now, I want to try my hand at Front-End development.
 
-## **Education:**
+## **Education**
 Yanka Kupala state university of Grodno: 2020-2024.
 4th year student, Information Systems and Technologies (in Economics).
 
@@ -36,7 +36,7 @@ Yanka Kupala state university of Grodno: 2020-2024.
                           }
  ```
 
-## **Additional information:**
+## **Additional information**
 * Sociability
 * Responsibility
 * Attention to detail
