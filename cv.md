@@ -25,3 +25,22 @@ Yanka Kupala state university of Grodno: 2020-2024.
 | Development tools, applications and platforms| Ability to work with basic MS Office programs. Working with Figma, WordPress, phpMyAdmin, Open Server. Layout of websites and templates.                                                                                                                    | 
 | Foreign languages                            | English: Written – Intermediate, Oral - Intermediate     
 
+**Code example**
+```
+ function toCamelCase(str) {
+                            str = str.split('');
+    
+                            return str.map(function(el, i) {
+                              if(el == '-' || el == '_') { 
+                              el = str[i+1].toUpperCase();  
+                                str.splice(i+1, 1);
+                             } 
+                              return el; 
+                             }).join('');
+                          }
+ ```
+**Contacts** 
+* Email:[polinapotapova0603@gmail.com]
+* GitHub:[https://github.com/Ryt666]
+* LinkedIn:[https://www.linkedin.com/in/%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0-4a8497254/]
+                 
