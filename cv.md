@@ -10,11 +10,7 @@ Now, I want to try my hand at Front-End development.
 Yanka Kupala state university of Grodno: 2020-2024.
 4th year student, Information Systems and Technologies (in Economics).
 
-## **Additional information:**
-* Sociability
-* Responsibility
-* Attention to detail
-* Punctuality
+## **Skills**
   
 |**Technical skills**                          |**Description**                                                               |  
 |:---------------------------------------------|:-----------------------------------------------------------------------------|
@@ -39,6 +35,13 @@ Yanka Kupala state university of Grodno: 2020-2024.
                              }).join('');
                           }
  ```
+
+## **Additional information:**
+* Sociability
+* Responsibility
+* Attention to detail
+* Punctuality
+  
 ## **Contacts** 
 * [Email](polinapotapova0603@gmail.com)
 * [GitHub](https://github.com/Ryt666)
