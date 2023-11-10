@@ -26,7 +26,7 @@ Yanka Kupala state university of Grodno: 2020-2024.
 | Foreign languages                            | English: Written – Intermediate, Oral - Intermediate     
 
 **Code example**
-```
+```JavaScript
  function toCamelCase(str) {
                             str = str.split('');
     
@@ -40,7 +40,7 @@ Yanka Kupala state university of Grodno: 2020-2024.
                           }
  ```
 **Contacts** 
-* Email:[polinapotapova0603@gmail.com]
-* GitHub:[https://github.com/Ryt666]
-* LinkedIn:[https://www.linkedin.com/in/%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0-4a8497254/]
+* [Email](polinapotapova0603@gmail.com)
+* [GitHub](https://github.com/Ryt666)
+* [LinkedIn](https://www.linkedin.com/in/%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0-4a8497254/)
                  
