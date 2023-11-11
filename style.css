@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Inter:wght@400;700&family=Satisfy&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    display: block;
+}
+
+body {
+    background-color: #e8e1d7;
+    color: #2e433c;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+a {
+    color: #2f4246;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #62a57a;
+}
+
+
+h1,
+h2,
+h4 {
+    font-family: 'Satisfy', cursive;
+}
+
+.avatar {
+    width: 100%;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgb(0, 0, 0, 0.25);
+    object-fit: cover;
+
+}
+
+
+.header-avatar {
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    width: 250px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.main {
+    display: flex;
+}
+
+.info {
+   
+        width: 100%;
+        display: flex;
+        position: relative;
+
+}
+
+@media(max-width:700px) {
+    .info {
+        text-align: center;
+        display: block;
+    }
+}
+
+.info p {
+    color: #2f4246;
+    margin: 10px 20px;
+    font-style: italic;
+    font-weight: 600;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.bg-yellow {
+    background: #fff9dc;
+}
+
+.bg-pink {
+    background: #f7cce7;
+}
+
+.bg-blue {
+    background: #c4e4ff;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.bg-purple {
+    background: #fdc2ff;
+}
+
+.card {
+    max-width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+.list {
+    padding: 0 20px;
+    list-style-type: none;
+}
+
+.list li {
+    color: #015920;
+    margin-bottom: 10px;
+
+
+}
+
+.skill-block {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+
+}
+
+.skill-text {
+    width: 110px;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.skill-list {
+    display: flex;
+    align-items: center;
+}
+
+.list-item {
+    width: 10px;
+    height: 10px;
+    background-color: #2e433c;
+    border-radius: 50%;
+    margin-right: 15px;
+   
+}
+
+.list-item-grey {
+    background-color: #d4d4d4;
+}
+
+.column-left {
+    width: 40%;
+    background-color: #aaaaaa;
+    padding: 0 50px 0 70px;
+}
+
+.column-right {
+    width: 60%;
+    background-color: #e8e1d7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 50px;
+
+}
+
+
+.footer-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    background-color: #bdbdbd;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    display: block;
+}
+
+.footer-social {
+    background-image: url(/rsschool-cv/images/25231.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.footer-image {
+    width: 70px;
+    margin: 0 10px;
+}
+
+pre {
+    margin-left: -20px;
+    margin-top: 20px;
+    padding-left: 40px;
+    
+   
+}
+pre {
+    display: block;
+    font-family: monospace;
+    margin: 1em 0px;
+}
+
+.text{
+   
+        font-size: 18px;
+        line-height: 27px;
+        margin-left: -310px;
+    
+}
