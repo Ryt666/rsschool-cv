@@ -29,7 +29,7 @@ function createChunks(arr, chunkSize) {
   );
 }
 
-My project
+## My project
 
 From the last stream rsschool:
 https://github.com/Ryt666/coffee-house
@@ -37,7 +37,7 @@ https://github.com/Ryt666/coffee-house
 Game Crosses-zeros:
 https://github.com/Ryt666/Crosses-zeres
 
-Languages:
+## Languages:
 spoken English - B1
 written English - B1
 
