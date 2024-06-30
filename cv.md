@@ -2,8 +2,8 @@
 
 ## ***My contacts***
 
-+ polinaPotapova0603@gmail.com
-+ https://web.telegram.org/a/
++ <polinaPotapova0603@gmail.com>
++ <https://web.telegram.org/a/>
 + +375 (29) 865-42-82
 
 ## ***About me***
@@ -15,8 +15,6 @@
 * WordPress
 * Photoshop
 * HTML
-* CSS
-* Git
 
 ## ***Code Example***
 
@@ -31,11 +29,11 @@
 ```
 ## ***My project***
 
-From the last stream rsschool:
-https://github.com/Ryt666/coffee-house
+From the last stream rs-school:
+<https://github.com/Ryt666/coffee-house>
 
 Game Crosses-zeros:
-https://github.com/Ryt666/Crosses-zeres
+<https://github.com/Ryt666/Crosses-zeres>
 
 ## ***Languages***:
 spoken English - B1
