@@ -1,15 +1,15 @@
 # **Polina Potapova**
 
-## My contacts
+## ***My contacts***
 
 + polinaPotapova0603@gmail.com
 + https://web.telegram.org/a/
 + +375 (29) 8654282
 
-## About me
+## ***About me***
 #### I am a young specialist. Three days ago I received a diploma in the specialty “Economist-programmer-engineer”. I really like web development. I want to know JS and React separately.
 
-## Skills
+## ***Skills***
 * CoreJS
 * Figma
 * WordPress
@@ -18,7 +18,7 @@
 * CSS
 * Git
 
-Code Example
+## ***Code Example***
 
 function createChunks(arr, chunkSize) {
   return Array.from(
@@ -29,7 +29,7 @@ function createChunks(arr, chunkSize) {
   );
 }
 
-## My project
+## ***My project***
 
 From the last stream rsschool:
 https://github.com/Ryt666/coffee-house
@@ -37,7 +37,7 @@ https://github.com/Ryt666/coffee-house
 Game Crosses-zeros:
 https://github.com/Ryt666/Crosses-zeres
 
-## Languages:
+## ***Languages***:
 spoken English - B1
 written English - B1
 
