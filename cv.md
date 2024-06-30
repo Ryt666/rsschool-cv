@@ -20,7 +20,7 @@
 
 ## ***Code Example***
 
-function createChunks(arr, chunkSize) {
+```function createChunks(arr, chunkSize) {
   return Array.from(
     { length: Math.ceil(arr.length / chunkSize) },
     (_, index) => {
@@ -28,7 +28,7 @@ function createChunks(arr, chunkSize) {
     }
   );
 }
-
+```
 ## ***My project***
 
 From the last stream rsschool:
