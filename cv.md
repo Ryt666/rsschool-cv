@@ -17,7 +17,8 @@
 
 ## ***Code Example***
 
-```function createChunks(arr, chunkSize) {
+```JS
+function createChunks(arr, chunkSize) {
   return Array.from(
 { length: Math.ceil(arr.length / chunkSize) },
     (_, index) => {
