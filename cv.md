@@ -2,8 +2,8 @@
 
 ## ***My contacts***
 
-+ <polinaPotapova0603@gmail.com>
-+ <https://web.telegram.org/a/>
++ [polinaPotapova0603@gmail.com](polinaPotapova0603@gmail.com)
++ [telegram](https://web.telegram.org/a/)
 + +375 (29) 865-42-82
 
 ## ***About me***
@@ -18,22 +18,22 @@
 
 ## ***Code Example***
 
-```function createChunks(arr, chunkSize) {
-  return Array.from(
-    { length: Math.ceil(arr.length / chunkSize) },
-    (_, index) => {
-      return arr.slice(index * chunkSize, index * chunkSize + chunkSize);
-    }
-  );
-}
+```<p>function createChunks(arr, chunkSize) {
+  <p>return Array.from(
+   <p>{ length: Math.ceil(arr.length / chunkSize) },
+    <p>(_, index) => {
+    <p>  return arr.slice(index * chunkSize, index * chunkSize + chunkSize);
+    <p>}
+  <p>);
+<p>}
 ```
 ## ***My project***
 
 From the last stream rs-school:
-<https://github.com/Ryt666/coffee-house>
+[https://github.com/Ryt666/coffee-house>](https://github.com/Ryt666/coffee-house>)
 
 Game Crosses-zeros:
-<https://github.com/Ryt666/Crosses-zeres>
+[https://github.com/Ryt666/Crosses-zeres>](https://github.com/Ryt666/Crosses-zeres>)
 
 ## ***Languages***:
 spoken English - B1
