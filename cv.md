@@ -17,14 +17,15 @@
 
 ## ***Code Example***
 
-```function createChunks(arr, chunkSize) {```
-  ```return Array.from(```
-   ```{ length: Math.ceil(arr.length / chunkSize) },```
-    ```(_, index) => {```
-     ``` return arr.slice(index * chunkSize, index * chunkSize + chunkSize);```
-    ```}```
-  ```);```
-```}```
+```function createChunks(arr, chunkSize) {
+  return Array.from(
+{ length: Math.ceil(arr.length / chunkSize) },
+    (_, index) => {
+     return arr.slice(index * chunkSize, index * chunkSize + chunkSize);
+    }
+  );
+}
+```
 ## ***My project***
 
 From the last stream rs-school:
