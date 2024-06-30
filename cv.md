@@ -4,7 +4,7 @@
 
 + polinaPotapova0603@gmail.com
 + https://web.telegram.org/a/
-+ +375 (29) 8654282
++ +375 (29) 865-42-82
 
 ## ***About me***
 #### I am a young specialist. Three days ago I received a diploma in the specialty “Economist-programmer-engineer”. I really like web development. I want to know JS and React separately.
