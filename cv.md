@@ -34,6 +34,7 @@ From the last stream rs-school:
 
 Game Crosses-zeros:
 [https://github.com/Ryt666/Crosses-zeres>](https://github.com/Ryt666/Crosses-zeres>)
+
 ## ***Education***
 
 Higher education - graduated from Yanka Kupala state university of Grodno
