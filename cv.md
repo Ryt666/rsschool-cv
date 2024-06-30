@@ -13,20 +13,18 @@
 * CoreJS
 * Figma
 * WordPress
-* Photoshop
 * HTML
 
 ## ***Code Example***
 
-```<p>function createChunks(arr, chunkSize) {
-  <p>return Array.from(
-   <p>{ length: Math.ceil(arr.length / chunkSize) },
-    <p>(_, index) => {
-    <p>  return arr.slice(index * chunkSize, index * chunkSize + chunkSize);
-    <p>}
-  <p>);
-<p>}
-```
+```function createChunks(arr, chunkSize) {```
+  ```return Array.from(```
+   ```{ length: Math.ceil(arr.length / chunkSize) },```
+    ```(_, index) => {```
+     ``` return arr.slice(index * chunkSize, index * chunkSize + chunkSize);```
+    ```}```
+  ```);```
+```}```
 ## ***My project***
 
 From the last stream rs-school:
