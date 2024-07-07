@@ -94,3 +94,120 @@ h4 {
     padding: 0 50px;
 
 }
+
+.main {
+    display: flex;
+}
+
+.bg-yellow {
+    background: #fff9dc;
+}
+
+.bg-pink {
+    background: #f7cce7;
+}
+
+.bg-blue {
+    background: #c4e4ff;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.bg-purple {
+    background: #fdc2ff;
+}
+
+.card {
+    max-width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+.skill-list {
+    padding: 0 20px;
+    list-style-type: none;
+}
+
+.skill-list li {
+    color: #015920;
+    margin-bottom: 10px;
+
+
+}
+
+.skill-list__technology {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+
+}
+
+.skill-list__text {
+    width: 110px;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.skill-list__points {
+    display: flex;
+    align-items: center;
+}
+
+.skill-list__item {
+    width: 10px;
+    height: 10px;
+    background-color: #2e433c;
+    border-radius: 50%;
+    margin-right: 15px;
+    transition: all .3s linear;
+}
+
+.skill-list__item-grey {
+    background-color: #d4d4d4;
+
+}
+
+.footer {
+    background-color: #bdbdbd;
+    padding: 10px 0;
+}
+
+
+.footer__inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__social {
+    display: block;
+    background-image: url(/rsschool-cv/images/25231.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.footer__image {
+    width: 70px;
+    margin: 0 10px;
+}
+
+.text{
+        font-size: 18px;
+        line-height: 27px;
+        margin-left: -230px;    
+}
+
+
