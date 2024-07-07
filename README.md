@@ -1,3 +1,1 @@
-https://Ryt666.github.io/rsschool-cv/
-
-
+https://Ryt666.github.io/rsschool-cv/index
